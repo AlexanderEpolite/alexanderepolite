@@ -1,9 +1,15 @@
-# hi
+# Hello
 
-my website: https://epolite.net/
+My website: https://epolite.net/
 
-if you want to email me, my email is on my github profile.
-please [encrypt the email](https://encrypt.epolite.net/) before sending it.
+If you want to email me, my email is on my GitHub profile (to prevent scraping).
 
-## projects
-i keep an updated list of my projects on [my website](https://epolite.net).
+You can also [encrypt the email](https://encrypt.epolite.net/) before sending it :)
+
+# Projects
+
+## TempMail
+
+I made a [temporary email service provider](https://tempmail.lol) that allows you to generate temporary emails (you can also see this in [@tempmail-lol](https://github.com/tempmail-lol).
+
+There are APIs available for TempMail as well.
