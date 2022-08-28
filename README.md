@@ -10,6 +10,6 @@ You can also [encrypt the email](https://encrypt.epolite.net/) before sending it
 
 ## TempMail
 
-I made a [temporary email service provider](https://tempmail.lol) that allows you to generate temporary emails (you can also see this in [@tempmail-lol](https://github.com/tempmail-lol).
+I made a [temporary email service provider](https://tempmail.lol) that allows you to generate temporary emails (you can also see this in [@tempmail-lol](https://github.com/tempmail-lol)).
 
 There are APIs available for TempMail as well.
